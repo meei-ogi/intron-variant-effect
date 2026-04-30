@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Comparison of experimental evaluation of deep intronic variants' pathogenicity and AlphaGenome, SpliceAI predictions
+"
+version: 1.0.0
+date-released: 2026-04-30
+url: "https://github.com/meei-ogi/intron-variant-effect"
+
+authors:
+  - family-names: "Weener"
+    given-names: "Marianna"
+    orcid: "https://orcid.org/0000-0002-1089-4293"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Weener"
+      given-names: "Marianna"
+  title: "In vitro pathogenicity evaluation of intronic variants for recessive genetic retinal diseases"
+  year: 2026
+  journal: "Journal name TBA"
+  doi: "DOIxxxx"
