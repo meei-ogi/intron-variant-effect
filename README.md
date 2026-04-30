@@ -29,3 +29,11 @@ We welcome discussion, alternative interpretations, and additional datasets.
 
 A detailed description of experimental design and analysis is available in:
 [Methodology](docs/methodology.md)
+
+## License
+
+- Code and repository content: MIT License
+- Dataset: CC BY 4.0
+- External predictions (AlphaGenome, SpliceAI): subject to their original licenses
+
+Please cite original sources where appropriate.
