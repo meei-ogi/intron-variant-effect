@@ -29,34 +29,3 @@ We welcome discussion, alternative interpretations, and additional datasets.
 
 A detailed description of experimental design and analysis is available in:
 [Methodology](docs/methodology.md)
-
-intron-variant-effect-comparison/
-│
-├── README.md
-├── LICENSE
-├── CITATION.cff
-│
-├── data/
-│   ├── raw/
-│   │   └── variants_672_original.xlsx
-│   ├── processed/
-│   │   └── variants_672_cleaned.csv
-│
-├── results/
-│   ├── figures/
-│   ├── tables/
-│   └── summary_statistics.csv
-│
-├── analysis/
-│   ├── notebooks/
-│   │   └── analysis.ipynb   (optional, even later)
-│   └── scripts/             (optional)
-│
-├── docs/
-│   ├── methodology.md
-│   ├── interpretation.md
-│   └── discrepancies.md
-│
-└── community/
-    ├── discussion_guidelines.md
-    └── known_issues.md
