@@ -16,5 +16,5 @@ Possible explanation:
 ### Type 4: in vitro shows pathogenic effect, SpliceAI predicts none
 ...
 
-See examples in the  [alphagenome-plots-manual-check.pdf](https://github.com/meei-ogi/intron-variant-effect/results/figures/alphagenome-plots-manual-check.pdf)
-The comparison itself can be done in raw [variants.xlsx file](https://github.com/meei-ogi/intron-variant-effect/data/raw/variants.xlsx)
+See examples in the  [alphagenome-plots-manual-check.pdf](https://github.com/meei-ogi/intron-variant-effect//blob/main/results/figures/alphagenome-plots-manual-check.pdf)
+The comparison itself can be done in raw [variants.xlsx file](https://github.com/meei-ogi/intron-variant-effect//blob/main/data/raw/variants.xlsx)
